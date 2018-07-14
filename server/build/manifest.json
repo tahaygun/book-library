@@ -1,0 +1,20 @@
+{
+  "short_name": "PırlantaAra",
+  "name": "Pırlanta Ara",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo-512x512.png",
+      "sizes": "512x512 144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#3F6CA3",
+  "background_color": "#ffffff"
+}
